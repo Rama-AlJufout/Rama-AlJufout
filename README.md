@@ -10,7 +10,7 @@
 
 ## 🧠 About Me
 
-<div align="center">
+<div>
 
 - 🤖 **AI Engineer** passionate about building intelligent systems that solve real-world problems
 - 🎓 **B.Sc. Intelligent Systems Engineering** - Tafila Technical University
