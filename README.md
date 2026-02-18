@@ -10,21 +10,22 @@
 
 ## 🧠 About Me
 
-```python
-class RamaAlJufout:
-    def __init__(self):
-        self.name       = "Rama Ahmad AlJufout"
-        self.role       = "AI Engineer | Intelligent Systems Engineer"
-        self.education  = "B.Sc. Intelligent Systems Engineering — Tafila Technical University"
-        self.focus      = ["Computer Vision", "Deep Learning", "NLP", "RAG Systems"]
-        self.tools      = ["YOLOv8", "TensorFlow", "PyTorch", "FastAPI", "Docker", "OpenCV"]
-        self.languages  = ["Python 🐍", "C++ ⚙️", "JavaScript ✨", "SQL 🗃️"]
-        self.speaks     = ["Arabic 🇯🇴 (Native)", "English 🌍 (Intermediate)", "Spanish 🇪🇸 (Basic)"]
-        self.mission    = "Delivering practical & scalable AI solutions 💡"
+<div align="center">
 
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something intelligent together 🤝")
-```
+🤖 **AI Engineer** passionate about building intelligent systems that solve real-world problems
+🎓 B.Sc. Intelligent Systems Engineering — Tafila Technical University
+🌍 Based in Jordan | Open to opportunities worldwide
+
+</div>
+
+| 🔍 Focus Areas | 🛠️ Core Tools | 🗣️ Languages |
+|:-:|:-:|:-:|
+| Computer Vision | YOLOv8 · OpenCV | Arabic 🇯🇴 Native |
+| Deep Learning | TensorFlow · PyTorch | English 🌍 Intermediate |
+| NLP & RAG Systems | FastAPI · Docker | Spanish 🇪🇸 Basic |
+| Medical AI | Raspberry Pi · Git | — |
+
+> 💡 *"Delivering practical & scalable AI solutions — from edge devices to cloud deployments."*
 
 ---
 
@@ -107,12 +108,13 @@ class RamaAlJufout:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rama-AlJufout&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7" height="175"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rama-AlJufout&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Rama-AlJufout&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&cache_seconds=86400" height="175"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rama-AlJufout&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&cache_seconds=86400" height="175"/>
 
-<br/>
+<br/><br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Rama-AlJufout&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Rama-AlJufout&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak"/>
 
 </div>
 
@@ -122,7 +124,7 @@ class RamaAlJufout:
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Rama-AlJufout&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=Rama-AlJufout&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6" alt="Trophies"/>
 
 </div>
 
@@ -167,7 +169,7 @@ Active member of **IEEE TTU**, **IEEE Women in Engineering**, **IEEE Robotics & 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=100&section=footer"/>
 
-*"I don't just work with data — I make it see, understand, and speak."* 🧠✨
+*"I don't just work with data I make it see, understand, and speak."* 🧠✨
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rama-AlJufout&color=A855F7&style=flat-square)
 
