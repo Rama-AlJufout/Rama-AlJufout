@@ -13,7 +13,7 @@
 <div align="center">
 
 🤖 **AI Engineer** passionate about building intelligent systems that solve real-world problems
-🎓 B.Sc. Intelligent Systems Engineering — Tafila Technical University
+🎓 B.Sc. Intelligent Systems Engineering - Tafila Technical University
 🌍 Based in Jordan | Open to opportunities worldwide
 
 </div>
@@ -25,16 +25,16 @@
 | NLP & RAG Systems | FastAPI · Docker | Spanish 🇪🇸 Basic |
 | Medical AI | Raspberry Pi · Git | — |
 
-> 💡 *"Delivering practical & scalable AI solutions — from edge devices to cloud deployments."*
+> 💡 *"Delivering practical & scalable AI solutions - from edge devices to cloud deployments."*
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔬 LupiScan — AI-Powered Lupus Detection System *(Graduation Project)*
+### 🔬 LupiScan - AI-Powered Lupus Detection System *(Graduation Project)*
 > Diagnostic AI system that detects Lupus (SLE) from facial images in **real-time on edge devices**
 
-- 🎯 Trained **YOLOv8** with RoboFlow — expanded dataset from **106 → 610 images** via augmentation
+- 🎯 Trained **YOLOv8** with RoboFlow - expanded dataset from **106 → 610 images** via augmentation
 - 🖥️ Deployed on **Raspberry Pi 4** for edge-based inference using Python & OpenCV
 - ⚡ Achieved reliable real-time performance on resource-constrained hardware
 
@@ -42,7 +42,7 @@
 
 ---
 
-### 🦴 Fracture Detection Model — X-ray Image Analysis
+### 🦴 Fracture Detection Model - X-ray Image Analysis
 > AI model for detecting bone fractures from X-ray images to support faster medical decisions
 
 - 🧪 Applied preprocessing & data augmentation for model robustness
@@ -52,7 +52,7 @@
 
 ---
 
-### 📄 OCR System — Scanned Exam Text Extraction
+### 📄 OCR System - Scanned Exam Text Extraction
 > Extracts text from scanned PDF exam papers to facilitate AI-assisted grading
 
 - 🔍 CNN-based character & text recognition pipeline
@@ -62,7 +62,7 @@
 
 ---
 
-### 🤖 Student AI Assistant Chatbot — RAG-based Q&A
+### 🤖 Student AI Assistant Chatbot - RAG-based Q&A
 > Intelligent chatbot answering student inquiries using Retrieval-Augmented Generation
 
 - 🔗 Integrated document retrieval with fine-tuned **Flan-T5-base**
@@ -121,10 +121,10 @@
 
 ## 📜 Certifications
 
-- 🏅 **Artificial Intelligence Fundamentals** — Dec 2025
-- ✅ **Quality Assurance Conformance** — Dec 2024
-- 👁️ **Computer Vision Workshop** — May 2024
-- 🤖 **AI & Future Management Tool** — Apr 2024
+- 🏅 **Artificial Intelligence Fundamentals** - Dec 2025
+- ✅ **Quality Assurance Conformance** - Dec 2024
+- 👁️ **Computer Vision Workshop** - May 2024
+- 🤖 **AI & Future Management Tool** - Apr 2024
 
 ---
 
@@ -158,7 +158,7 @@ Active member of **IEEE TTU**, **IEEE Women in Engineering**, **IEEE Robotics & 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=100&section=footer"/>
 
-*"I don't just work with data I make it see, understand, and speak."* 🧠✨
+*"I don't just work with data - I make it see, understand, and speak."* 🧠✨
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rama-AlJufout&color=A855F7&style=flat-square)
 
