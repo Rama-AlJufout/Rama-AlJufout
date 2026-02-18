@@ -12,20 +12,14 @@
 
 <div align="center">
 
-🤖 **AI Engineer** passionate about building intelligent systems that solve real-world problems
-🎓 B.Sc. Intelligent Systems Engineering - Tafila Technical University
-🌍 Based in Jordan | Open to opportunities worldwide
+- 🤖 **AI Engineer** passionate about building intelligent systems that solve real-world problems
+- 🎓 **B.Sc. Intelligent Systems Engineering** - Tafila Technical University
+- 🌍 Based in **Jordan** | Open to opportunities worldwide
+- 🔭 Currently focused on: **Computer Vision & Medical AI**
+- 🧩 Expertise: `Computer Vision` `Deep Learning` `NLP` `RAG Systems` `Medical AI`
+- 🗣️ Languages: **Arabic** 🇯🇴 Native · **English** 🌍 Intermediate · **Spanish** 🇪🇸 Basic
 
-</div>
-
-| 🔍 Focus Areas | 🛠️ Core Tools | 🗣️ Languages |
-|:-:|:-:|:-:|
-| Computer Vision | YOLOv8 · OpenCV | Arabic 🇯🇴 Native |
-| Deep Learning | TensorFlow · PyTorch | English 🌍 Intermediate |
-| NLP & RAG Systems | FastAPI · Docker | Spanish 🇪🇸 Basic |
-| Medical AI | Raspberry Pi · Git | — |
-
-> 💡 *"Delivering practical & scalable AI solutions - from edge devices to cloud deployments."*
+> 💡 *"I don't just work with data - I make it see, understand, and speak."*
 
 ---
 
