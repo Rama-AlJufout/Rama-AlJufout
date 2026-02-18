@@ -12,9 +12,9 @@
 
 <div>
 
-- 🤖 **AI Engineer** passionate about building intelligent systems that solve real-world problems
-- 🎓 **B.Sc. Intelligent Systems Engineering** - Tafila Technical University
-- 🌍 Based in **Jordan** | Open to opportunities worldwide
+- 🤖 **AI Engineer** passionate about building intelligent systems that solve real-world problems.
+- 🎓 **B.Sc. Intelligent Systems Engineering** - Tafila Technical University.
+- 🌍 Based in **Jordan** | Open to opportunities worldwide.
 - 🔭 Currently focused on: **Computer Vision & Medical AI**
 - 🧩 Expertise: `Computer Vision` `Deep Learning` `NLP` `RAG Systems` `Medical AI`
 - 🗣️ Languages: **Arabic** 🇯🇴 Native · **English** 🌍 Intermediate · **Spanish** 🇪🇸 Basic
@@ -30,9 +30,9 @@
 ### 🔬 LupiScan - AI-Powered Lupus Detection System *(Graduation Project)*
 > Diagnostic AI system that detects Lupus (SLE) from facial images in **real-time on edge devices**
 
-- 🎯 Trained **YOLOv8** with RoboFlow - expanded dataset from **106 → 610 images** via augmentation
-- 🖥️ Deployed on **Raspberry Pi 4** for edge-based inference using Python & OpenCV
-- ⚡ Achieved reliable real-time performance on resource-constrained hardware
+- 🎯 Trained **YOLOv8** with RoboFlow - expanded dataset from **106 → 610 images** via augmentation.
+- 🖥️ Deployed on **Raspberry Pi 4** for edge-based inference using Python & OpenCV.
+- ⚡ Achieved reliable real-time performance on resource-constrained hardware.
 
 `Python` `YOLOv8` `RoboFlow` `OpenCV` `Raspberry Pi`
 
@@ -41,8 +41,8 @@
 ### 🦴 Fracture Detection Model - X-ray Image Analysis
 > AI model for detecting bone fractures from X-ray images to support faster medical decisions
 
-- 🧪 Applied preprocessing & data augmentation for model robustness
-- 🏗️ Built and evaluated a **CNN-based** medical image classification model
+- 🧪 Applied preprocessing & data augmentation for model robustness.
+- 🏗️ Built and evaluated a **CNN-based** medical image classification model.
 
 `Python` `CNN` `TensorFlow` `Medical Imaging`
 
@@ -51,8 +51,8 @@
 ### 📄 OCR System - Scanned Exam Text Extraction
 > Extracts text from scanned PDF exam papers to facilitate AI-assisted grading
 
-- 🔍 CNN-based character & text recognition pipeline
-- 🖼️ Image enhancement & preprocessing for higher accuracy
+- 🔍 CNN-based character & text recognition pipeline.
+- 🖼️ Image enhancement & preprocessing for higher accuracy.
 
 `Python` `CNN` `OCR` `OpenCV`
 
@@ -61,8 +61,8 @@
 ### 🤖 Student AI Assistant Chatbot - RAG-based Q&A
 > Intelligent chatbot answering student inquiries using Retrieval-Augmented Generation
 
-- 🔗 Integrated document retrieval with fine-tuned **Flan-T5-base**
-- 📚 Supports academic FAQs and course-related queries
+- 🔗 Integrated document retrieval with fine-tuned **Flan-T5-base**.
+- 📚 Supports academic FAQs and course-related queries.
 
 `Python` `RAG` `Flan-T5` `NLP` `FastAPI`
 
