@@ -104,27 +104,6 @@
 
 ---
 
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-![Contributions](https://img.shields.io/badge/Total%20Contributions-46-A855F7?style=for-the-badge&logo=github&logoColor=white)
-![Repos](https://img.shields.io/badge/Public%20Repos-Check%20Profile-A855F7?style=for-the-badge&logo=github&logoColor=white)
-![Longest Streak](https://img.shields.io/badge/Longest%20Streak-6%20Days-A855F7?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
-<div align="center">
-
-| 📅 Active Since | 🔥 Longest Streak | ⭐ Focus |
-|:-:|:-:|:-:|
-| Aug 2025 | 6 Days (Oct 11-16, 2025) | AI & Computer Vision |
-
-</div>
-
----
-
 ## 🏆 Highlights
 
 <div align="center">
