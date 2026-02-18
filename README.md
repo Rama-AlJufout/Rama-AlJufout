@@ -21,6 +21,8 @@
 
 > 💡 *"I don't just work with data - I make it see, understand, and speak."*
 
+</div>
+
 ---
 
 ## 🚀 Featured Projects
