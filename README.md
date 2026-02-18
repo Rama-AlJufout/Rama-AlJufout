@@ -104,27 +104,37 @@
 
 ---
 
-## 📊 GitHub Stats
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rama-AlJufout&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&cache_seconds=86400" height="175"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rama-AlJufout&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&cache_seconds=86400" height="175"/>
+![Contributions](https://img.shields.io/badge/Total%20Contributions-46-A855F7?style=for-the-badge&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/Public%20Repos-Check%20Profile-A855F7?style=for-the-badge&logo=github&logoColor=white)
+![Longest Streak](https://img.shields.io/badge/Longest%20Streak-6%20Days-A855F7?style=for-the-badge&logo=github&logoColor=white)
 
-<br/><br/>
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Rama-AlJufout&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak"/>
+<div align="center">
+
+| 📅 Active Since | 🔥 Longest Streak | ⭐ Focus |
+|:-:|:-:|:-:|
+| Aug 2025 | 6 Days (Oct 11-16, 2025) | AI & Computer Vision |
 
 </div>
 
 ---
 
-## 🏆 Trophies
+## 🏆 Highlights
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rama-AlJufout&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6" alt="Trophies"/>
+![Edge AI](https://img.shields.io/badge/🚀%20Edge%20AI-Deployed%20on%20Raspberry%20Pi-A855F7?style=for-the-badge)
+![Medical AI](https://img.shields.io/badge/🏥%20Medical%20AI-Lupus%20%26%20Fracture%20Detection-EE4C2C?style=for-the-badge)
+![NLP](https://img.shields.io/badge/🤖%20NLP-RAG%20Chatbot%20Builder-FF6F00?style=for-the-badge)
+![OCR](https://img.shields.io/badge/📄%20OCR-Exam%20Text%20Extraction-009688?style=for-the-badge)
+![IEEE](https://img.shields.io/badge/⚡%20IEEE-Active%20Member%205%20Societies-00629B?style=for-the-badge)
+![Exchange](https://img.shields.io/badge/🌍%20Exchange-University%20of%20Valladolid%20Spain-F7DF1E?style=for-the-badge&logoColor=black)
 
 </div>
 
