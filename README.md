@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=140&section=header&text=Rama%20AlJufout&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Intelligent%20Systems%20Engineer&descAlignY=58&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=89CFF0&height=140&section=header&text=Rama%20AlJufout&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Intelligent%20Systems%20Engineer&descAlignY=58&descAlign=50"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Computer+Vision+%F0%9F%91%81%EF%B8%8F+%7C+Deep+Learning+%F0%9F%A7%A0+%7C+NLP+%F0%9F%92%AC;Building+AI+that+solves+real-world+problems+%F0%9F%9A%80;From+medical+imaging+to+intelligent+chatbots+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF8C42&center=true&vCenter=true&width=700&lines=Computer+Vision+%F0%9F%91%81%EF%B8%8F+%7C+Deep+Learning+%F0%9F%A7%A0+%7C+NLP+%F0%9F%92%AC;Building+AI+that+solves+real-world+problems+%F0%9F%9A%80;From+medical+imaging+to+intelligent+chatbots+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
@@ -104,12 +104,12 @@
 
 <div align="center">
 
-![Edge AI](https://img.shields.io/badge/🚀%20Edge%20AI-Deployed%20on%20Raspberry%20Pi-A855F7?style=for-the-badge)
-![Medical AI](https://img.shields.io/badge/🏥%20Medical%20AI-Lupus%20%26%20Fracture%20Detection-EE4C2C?style=for-the-badge)
-![NLP](https://img.shields.io/badge/🤖%20NLP-RAG%20Chatbot%20Builder-FF6F00?style=for-the-badge)
-![OCR](https://img.shields.io/badge/📄%20OCR-Exam%20Text%20Extraction-009688?style=for-the-badge)
-![IEEE](https://img.shields.io/badge/⚡%20IEEE-Active%20Member%205%20Societies-00629B?style=for-the-badge)
-![Exchange](https://img.shields.io/badge/🌍%20Exchange-University%20of%20Valladolid%20Spain-F7DF1E?style=for-the-badge&logoColor=black)
+![Edge AI](https://img.shields.io/badge/🚀%20Edge%20AI-Deployed%20on%20Raspberry%20Pi-FF8C42?style=for-the-badge)
+![Medical AI](https://img.shields.io/badge/🏥%20Medical%20AI-Lupus%20%26%20Fracture%20Detection-E74C3C?style=for-the-badge)
+![NLP](https://img.shields.io/badge/🤖%20NLP-RAG%20Chatbot%20Builder-F7B731?style=for-the-badge)
+![OCR](https://img.shields.io/badge/📄%20OCR-Exam%20Text%20Extraction-2ECC71?style=for-the-badge)
+![IEEE](https://img.shields.io/badge/⚡%20IEEE-Active%20Member%205%20Societies-89CFF0?style=for-the-badge)
+![Exchange](https://img.shields.io/badge/🌍%20Exchange-University%20of%20Valladolid%20Spain-FF8C42?style=for-the-badge)
 
 </div>
 
@@ -129,8 +129,8 @@
 <div align="center">
 
 ![IEEE](https://img.shields.io/badge/IEEE-Member-00629B?style=for-the-badge&logo=ieee&logoColor=white)
-![WIE](https://img.shields.io/badge/IEEE%20WiE-Women%20in%20Engineering-A855F7?style=for-the-badge&logo=ieee&logoColor=white)
-![RAS](https://img.shields.io/badge/IEEE%20RAS-Robotics%20%26%20Automation-EE4C2C?style=for-the-badge&logo=ieee&logoColor=white)
+![WIE](https://img.shields.io/badge/IEEE%20WiE-Women%20in%20Engineering-FF8C42?style=for-the-badge&logo=ieee&logoColor=white)
+![RAS](https://img.shields.io/badge/IEEE%20RAS-Robotics%20%26%20Automation-E74C3C?style=for-the-badge&logo=ieee&logoColor=white)
 
 </div>
 
@@ -152,10 +152,10 @@ Active member of **IEEE TTU**, **IEEE Women in Engineering**, **IEEE Robotics & 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=89CFF0&height=100&section=footer"/>
 
 *"I don't just work with data - I make it see, understand, and speak."* 🧠✨
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rama-AlJufout&color=A855F7&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Rama-AlJufout&color=FF8C42&style=flat-square)
 
 </div>
